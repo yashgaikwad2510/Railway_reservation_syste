@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env.local
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Build outputs
+frontend/dist/
+frontend/build/
+backend/dist/
+
+# Application data & Temporary files
+brain/
+tmp/
+.gemini/
